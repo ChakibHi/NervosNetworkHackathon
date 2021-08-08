@@ -18,4 +18,5 @@
 https://explorer.nervos.org/aggron/address/ckt1qyq28efgpmeat99klfuegcnezsvn4h632nysuj0cxw
 
 3 - A screenshot of the console output immediately after you have successfully submitted a deposit to Layer 2.
+<img width="937" alt="3_layer2" src="https://user-images.githubusercontent.com/40836140/128645644-168b42bf-46dc-4e37-89f6-4cedbd9ec879.png">
 
